@@ -33,6 +33,4 @@ This project contains the OpenAPI specification for managing books and authors i
   Update an existing author. This is an idempotent operation.  
 
 - **DELETE /authors**  
-  Delete an author by their ID.  
-
----
+  Delete an author by their ID.
